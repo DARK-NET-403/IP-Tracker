@@ -20,7 +20,7 @@
 
 > **IP Tracker** is a lightweight yet powerful tool for tracking any public IP address!  
 > It shows real-time **Location**, **ISP**, **Region**, and more.  
-> Built with love by `Ariyan Rabbi aka Dʌʀĸ-Nɘt` for ethical hacking education.
+> Built with love by `Ariyan Rabbi (Dʌʀĸ-Nɘt)` for ethical hacking education.
 
 ---
 
