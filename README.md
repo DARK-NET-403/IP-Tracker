@@ -8,17 +8,19 @@
   <img src="https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android" />
   <img src="https://img.shields.io/badge/Creator-Ariyan%20Rabbi-black?style=for-the-badge&logo=github" />
 </p>
+
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Track+IP!;Stay+Hacking.+Stay+Secure;+Stay+Ariyan+Rabbi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Track+IP!;Stay+Hacking.+Stay+Secure.+Stay+Ariyan+Rabbi" />
 </p>
+
 ---
 
 ## ❓ What is IP Tracker?
 
 > **IP Tracker** is a lightweight yet powerful tool for tracking any public IP address!  
 > It shows real-time **Location**, **ISP**, **Region**, and more.  
-> Built with love by `Ariyan Rabbi (Dʌʀĸ-Nɘt)` for ethical hacking education.
+> Built with love by `Ariyan Rabbi aka Dʌʀĸ-Nɘt` for ethical hacking education.
 
 ---
 
@@ -59,8 +61,7 @@ python ip_tracker.py
 > Here’s how it looks in action:
 
 <p align="center">
-  <img src="https://github.com/DARK-NET-403/IP-Tracker/blob/main/Screenshot_1.jpg" width="350" />
-  <img src="https://github.com/DARK-NET-403/IP-Tracker/blob/main/Screenshot_2.jpg" width="350" />
+  <img src="https://github.com/DARK-NET-403/IP-Tracker/blob/main/IMG_20250513_120443.jpg" width="350" />
 </p>
 
 ---
@@ -73,7 +74,6 @@ python ip_tracker.py
 | Telegram   | [Join Chat](https://t.me/DARK_NET_403) |
 | Messenger  | [Message](https://m.me/DARK.NET.403) |
 | GitHub     | [My Tools](https://github.com/DARK-NET-403) |
-
 ---
 
 ### Thanks for using **IP Tracker**  
