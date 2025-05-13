@@ -1,3 +1,9 @@
+#Tool Make By : Ariyan Rabbi(Dʌʀĸ-Nɘt)
+#Don't Use My coded File And copy
+#Are Your use copy my file Your Father 100 man
+#use this tool and give me star
+#Don't Copy my file
+
 import requests
 import os
 import sys
